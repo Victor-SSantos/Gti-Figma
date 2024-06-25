@@ -1,0 +1,40 @@
+body {
+    background-color:#090B1A;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+}
+.Main {
+    display: flex;
+}
+.left-div, .right-div {
+    flex: 1;
+    padding: 10%;
+    border: 1px solid #ccc;
+    color:#FFF;
+}
+.left-div {
+    background-color: #1B1938;
+    font-size: 36px;
+}
+
+.right-div {
+    background-color: #e0e0e0;
+    
+}
+
+.insights {
+    color:#AA5CDB ;
+    
+}
+
+.paragraph {
+    font-size: 14px;
+}
+
+#final {
+    font-size: 14px;
+}
+
